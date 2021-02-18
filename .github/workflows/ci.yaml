@@ -1,4 +1,4 @@
-ame: continuous integration
+name: continuous integration
 # yamllint disable-line rule:truthy
 on:
 - push
